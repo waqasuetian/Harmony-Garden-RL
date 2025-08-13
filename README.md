@@ -18,9 +18,12 @@ This project demonstrates:
 ## 🎥 Demo Video
 Watch the robot training in action:
 
-<video src="vedio.mp4" controls width="720">
-  Your browser does not support the video tag.
-</video>
+[![Watch the demo](./Screen1.png)](https://raw.githubusercontent.com/waqasuetian/Harmony-Garden-RL/main/vedio.mp4)
+<!-- The thumbnail (Screen1.png) is clickable and opens the MP4 in the browser with play/pause controls. -->
+<!-- If your default branch isn't "main", change it in the URL above. -->
+
+> Or open the file directly: [vedio.mp4](./vedio.mp4)
+
 
 ---
 
