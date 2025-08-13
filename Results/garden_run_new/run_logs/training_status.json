@@ -1,0 +1,29 @@
+{
+    "walking": {
+        "checkpoints": [
+            {
+                "steps": 13184,
+                "file_path": "results\\garden_run_22\\walking\\walking-13184.onnx",
+                "reward": null,
+                "creation_time": 1755108425.9871593,
+                "auxillary_file_paths": [
+                    "results\\garden_run_22\\walking\\walking-13184.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 13184,
+            "file_path": "results\\garden_run_22\\walking.onnx",
+            "reward": null,
+            "creation_time": 1755108425.9871593,
+            "auxillary_file_paths": [
+                "results\\garden_run_22\\walking\\walking-13184.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.7.1+cpu"
+    }
+}
