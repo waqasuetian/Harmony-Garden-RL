@@ -19,8 +19,6 @@ This project demonstrates:
 Watch the robot training in action:
 
 [![Watch the demo](./Screen1.png)](https://raw.githubusercontent.com/waqasuetian/Harmony-Garden-RL/main/vedio.mp4)
-<!-- The thumbnail (Screen1.png) is clickable and opens the MP4 in the browser with play/pause controls. -->
-<!-- If your default branch isn't "main", change it in the URL above. -->
 
 > Or open the file directly: [vedio.mp4](./vedio.mp4)
 
@@ -62,7 +60,7 @@ Training is powered by **Unity ML-Agents** using the PPO algorithm.
 
 | Robot Exploring | Taking Forward Steps |
 |-----------------|----------------------|
-| ![](./docs/robot_exploring.png) | ![](./docs/taking_forward_steps.png) |
+| ![](./Screen1.png) | ![](./Screen2.png) |
 
 ---
 
