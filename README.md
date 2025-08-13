@@ -15,20 +15,6 @@ This project demonstrates:
 
 ---
 
-## 🎯 Features
-- 🏃 **Smooth & grounded robot locomotion** (acceleration, max speed, turn speed)
-- 🧠 **Curiosity module** for intrinsic motivation
-- 🪴 **Interactables**:
-  - Apple pickup
-  - Chair sitting
-  - Water play zone
-  - Buttons & maze goals
-- 📦 Modular **C# scripts** for Agents, Config, and Interactables
-- ⚙️ Fully configurable **YAML training settings**
-- 🎥 Visualizable **training process in Unity**
-
----
-
 ## 🤖 The Agent  
 The **RobotAgent**:
 - Uses **Vector Observations**: velocity, states, and nearby interactables
@@ -40,6 +26,20 @@ The **RobotAgent**:
   - Extrinsic rewards for completing tasks
   - Small bonuses for novel interactions
   - Curiosity-driven intrinsic rewards for exploration
+
+---
+
+## 🎯 Features
+- 🏃 **Smooth & grounded robot locomotion** (acceleration, max speed, turn speed)
+- 🧠 **Curiosity module** for intrinsic motivation
+- 🪴 **Interactables**:
+  - Apple pickup
+  - Chair sitting
+  - Water play zone
+  - Buttons & maze goals
+- 📦 Modular **C# scripts** for Agents, Config, and Interactables
+- ⚙️ Fully configurable **YAML training settings**
+- 🎥 Visualizable **training process in Unity**
 
 ---
 
