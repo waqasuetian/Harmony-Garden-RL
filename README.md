@@ -3,6 +3,13 @@
 
 ---
 
+## 🎥 Demo Video
+Watch the robot training in action:  
+
+[▶️ Download / Play Video](vedio.mp4)  
+
+---
+
 ## 📖 Overview
 **Harmony Garden RL** is a Unity-based reinforcement learning project where an autonomous robot learns to navigate, interact, and explore a dynamic garden environment.  
 The agent is powered by **Unity ML-Agents** and uses a few **extrinsic rewards** to encourage exploration and **intrinsic curiosity**.
