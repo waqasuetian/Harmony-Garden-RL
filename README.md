@@ -18,9 +18,9 @@ This project demonstrates:
 ## 🎥 Demo Video
 Watch the robot training in action:
 
-[![Watch the demo](./Screen1.png)](https://raw.githubusercontent.com/waqasuetian/Harmony-Garden-RL/main/vedio.mp4)
+[![Watch the demo](./Screen1.png)](https://github.com/waqasuetian/Harmony-Garden-RL/raw/main/vedio.mp4)
 
-> Or open the file directly: [vedio.mp4](./vedio.mp4)
+> Click the thumbnail to play the video in your browser.
 
 
 ---
